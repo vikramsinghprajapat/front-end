@@ -12,6 +12,7 @@ import Login from "../pages/Login";
 import NotFound from "../pages/NotFound";
 import Register from "../pages/Register";
 
+
 const router = createBrowserRouter([
     {
         path: "/",
